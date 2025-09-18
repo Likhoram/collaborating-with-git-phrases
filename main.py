@@ -1,5 +1,5 @@
 def greet():
     print("Hello, World!")
 
-def farewell():
-    print("Farewell")
+def check():
+    print(" how are you ?")
